@@ -23,10 +23,10 @@ A Python and SQL ETL pipeline that cleans and loads 8,000+ sales transactions in
 
 ### Skills
 
-**Languages:** Python, SQL, Java
-**Data & ML:** pandas, NumPy, scikit-learn, XGBoost, time-series forecasting
-**AI / RAG:** Hugging Face, FAISS, Ollama, Llama 3.2, Streamlit
-**Tools:** PostgreSQL, Power BI, Docker, Git, Linux, Jupyter
+- **Languages:** Python, SQL, Java
+- **Data & ML:** pandas, NumPy, scikit-learn, XGBoost, time-series forecasting
+- **AI / RAG:** Hugging Face, FAISS, Ollama, Llama 3.2, Streamlit
+- **Tools:** PostgreSQL, Power BI, Docker, Git, Linux, Jupyter
 
 ### Connect
 
