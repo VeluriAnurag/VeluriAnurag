@@ -19,7 +19,7 @@ A Python and SQL ETL pipeline that cleans and loads 8,000+ sales transactions in
 ### 🛠️ Working on now
 
 - **Predictive Maintenance System:** predicting remaining useful life of engines from NASA C-MAPSS sensor data with XGBoost, SHAP, and MLflow
-- **Undergraduate research** on time-series forecasting with statistical and machine learning methods
+- **Undergraduate research:** starting machine learning research at Virginia Tech
 
 ### Skills
 
