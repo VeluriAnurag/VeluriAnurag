@@ -1,6 +1,6 @@
 ## Hi, I'm Anurag 👋
 
-I'm a **Computational Modeling and Data Analytics** student at **Virginia Tech** (class of 2029). I like building data and ML projects that take messy information and turn it into something useful, and I try to understand every piece of what I build.
+I'm a **Computational Modeling and Data Analytics** student at **Virginia Tech** who builds ML and LLM projects from raw data to a working, tested app. My latest, **[RepoGuide](https://github.com/VeluriAnurag/repoguide)**, answers questions about any Python codebase with citations it checks itself. Right now I'm building a predictive maintenance model and starting machine learning research.
 
 ### 🔎 [RepoGuide](https://github.com/VeluriAnurag/repoguide): Codebase RAG Assistant
 
